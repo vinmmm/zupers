@@ -1,0 +1,89 @@
+{
+  "id" : "crestbrook",
+  "displayLabel" : "Crestbrook Insurance Company",
+  "links" : [ {
+    "rel" : "_self",
+    "href" : "/api/v2/crestbrook-ceg",
+    "label" : "Company"
+  }, {
+    "rel" : "about",
+    "href" : "/api/v2/crestbrook/site/about.html",
+    "label" : "About company"
+  }, {
+    "rel" : "privacy",
+    "href" : "/api/v2/crestbrook/site/privacy.html",
+    "label" : "Privacy Statement"
+  }, {
+    "rel" : "tos",
+    "href" : "/api/v2/crestbrook/site/tos.html",
+    "label" : "Terms and Conditions"
+  }, {
+    "rel" : "agents/near/zip",
+    "href" : "/api/v2/crestbrook/agents/near/zip",
+    "label" : "Find a Crestbrook Agent"
+  }, {
+    "rel" : "agents/near/address",
+    "href" : "/api/v2/crestbrook/agents/near/address",
+    "label" : "Find a Crestbrook Agent"
+  }, {
+    "rel" : "agents/near/coordinates",
+    "href" : "/api/v2/crestbrook/agents/near/coordinates",
+    "label" : "Find a Crestbrook Agent"
+  }, {
+    "rel" : "login",
+    "href" : "/api/v2/crestbrook/login",
+    "label" : "Customer Login"
+  }, {
+    "rel" : "username",
+    "href" : "/api/v2/crestbrook/users/via/email",
+    "label" : "Request Username Via Email"
+  }, {
+    "rel" : "forgotUsernameViaSMS",
+    "href" : "/api/v2/crestbrook/users/via/sms",
+    "label" : "Request Username Via Text"
+  }, {
+    "rel" : "password",
+    "href" : "/api/v2/crestbrook/users/{userId}/password",
+    "label" : "Request Password Via Email or Text"
+  }, {
+    "rel" : "registration",
+    "href" : "/api/v2/crestbrook/customer",
+    "label" : "Account Registration"
+  }, {
+    "rel" : "roadside",
+    "href" : "/api/v2/crestbrook/site/roadside.html",
+    "label" : "Roadside Assistance"
+  }, {
+    "rel" : "bankInfo",
+    "href" : "/api/v2/crestbrook/services/bank",
+    "label" : "Customer Bank Account Details"
+  } ],
+  "companyId" : "crestbrook",
+  "name" : "Crestbrook Insurance Company",
+  "about" : "We measure our success by the relationships we build and the trust we earn.",
+  "streetAddress" : {
+    "links" : [ ],
+    "address" : "8877 N Gainey Center Dr",
+    "city" : "Scottsdale",
+    "state" : "AZ",
+    "zip" : "85258"
+  },
+  "contacts" : [ {
+    "links" : [ ],
+    "type" : "Phone",
+    "value" : "855-473-6410",
+    "label" : "General Information",
+    "preferred" : false
+  }, {
+    "links" : [ ],
+    "type" : "Website",
+    "value" : "www.crestbrook.com",
+    "label" : "Crestbrook Website",
+    "preferred" : false
+  }, {
+    "links" : [ ],
+    "type" : "Phone",
+    "value" : "855-473-5327",
+    "label" : "Start a Claim",
+    "preferred" : false
+  } ]
